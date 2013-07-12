@@ -1,5 +1,11 @@
 # korma.incubator
 
+NOTE: This is a non-supported, private version, built to correct a very small, 
+specific problem. This version only exists so that a package could be added 
+to clojars, allowing an internal project to make an uberjar.
+
+**This version should not be used by anybody.**
+
 A playground for potential new features and nice utilities for korma.
 
 ## Usage
